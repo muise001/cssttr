@@ -17,9 +17,11 @@ Ook ben ik blij dat ik gestopt ben met "clueless programmeren". In het begin gin
 
 ### Wat kan beter?
 **In de klas**
+
 Ik merk dat ik soms moeite heb om me te concentreren. Dat komt omdat ik nog niet helemaal thuis ben in CSS, dus er ook minder zin in heb. Gelukkig gaat dit sinds m'n nieuwe design beter, aangezien ik nu weet wat ik ga maken. Ook ben ik veel tijd kwijtgeraakt om uit te vogelen wat de logica en de verhouding was tussen de content. 
 
 **In CSS**
+
   * Van animaties heb ik weinig kennis, dus kost het veel tijd. Gelukkig weet ik precies hoe ik wat wil animeren.
   * Ik vind het moeilijk om goede kleuren te vinden om in m'n design te zetten
   * Sinds het skelet van het design staat weet ik niet zeker of ik dit design nog wil.
