@@ -40,4 +40,3 @@ Ik merk dat ik soms moeite heb om me te concentreren. Dat komt omdat ik nog niet
  Ik ben al met al niet tevreden met het eindresultaat, omdat de vormgeving niet mooi is. Waar ik wel blij mee ben, is dat ik veel heb geleerd over css selectoren en animatie. De tabroute werkt goed. Zelf vind ik het ondanks dat een onvoldoende.
   
  > Emiel Muis
- > 500741038
