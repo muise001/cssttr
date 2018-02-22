@@ -1,4 +1,4 @@
-# Marijn's Website
+# Marijn's Website (week 1 en 2)
 
 Voor deze opdracht van CSSTTR moeten wij een website maken die te gebruiken is door iemand met spasme. Aangezien deze persoon liever geen muis gebruikt, moet hij door de website heen kunnen '**Tab**ben'. Ook moeten wij gebruik maken van CSS Grids en mogen wij geen JavaScript gebruiken.
 
@@ -27,6 +27,17 @@ Ik merk dat ik soms moeite heb om me te concentreren. Dat komt omdat ik nog niet
   * Ik vind het moeilijk om goede kleuren te vinden om in m'n design te zetten
   * Sinds het skelet van het design staat weet ik niet zeker of ik dit design nog wil.
   
+# Eindproduct
+  De website werkt. Je kan er goed doorheen met tab en sommige elementen worden groter als je erin Tabt. De vormgeving is helaas niet zo geworden als ik hoopte. Daarom heb ik eind week 2 een redesign gemaakt, maar ik had te weinig tijd om dit werkend te maken. Daarom ben ik verder gaan bouwen aan een "Slecht" design.
+  
+ **Proces** 
+ In de laatste weken ging het werken goed. Helaas was ik dinsdag afwezig wegens ziekte. Ik ben begonnen met een design. Dit leek op papier een mooi design. Toen ik hem af had, was ik niet tevreden, dus heb ik een nieuwe tekening gemaakt op het zelfde design met meer detail. Dit heb ik toegepast. Toen alles af was, ben ik gaan kijken naar de kleuren die ik wilde gebruiken. Ik heb zeker 8 verschillende kleurenpaletten gemaakt en toegepast, maar er was er niet een die "goed uit de verf" kwam. Uiteindelijk heb ik voor de minst lelijke gekozen.
+ 
+ **Tijdindeling**
+ De meeste tijd ben ik kwijt geraakt aan het piekeren over waarom die onlogische elementen in de site moesten en tekenen. Ik was vaak aan het her-designen. Dit heeft veel tijd gekost
+ 
+ **Eindresultaat**
+ Ik ben al met al niet tevreden met het eindresultaat, omdat de vormgeving niet mooi is. Waar ik wel blij mee ben, is dat ik veel heb geleerd over css selectoren en animatie. De tabroute werkt goed. Zelf vind ik het ondanks dat een onvoldoende.
   
  > Emiel Muis
  > 500741038
