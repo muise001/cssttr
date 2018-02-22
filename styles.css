@@ -27,8 +27,8 @@ section {
 
 section > * {
   /* background-color: rgb(177, 210, 241); */
-  background-color: #0085e8;
-  border: solid white 3px;
+  background-color: white;
+  border: solid #0085e8 3px;
   /* box-shadow: 2.5px 5px 4px rgba(150, 166, 201, 0.8); */
 }
 
@@ -64,10 +64,23 @@ section > form:first-of-type {
   transition: 0.2s all ease;
 }
 
+section > form:first-of-type:focus-within,
+article:last-of-type:focus-within,
+nav:focus-within,
 section > form:first-of-type:hover {
 transform: scale(1.2);
-padding: 5em 0;
+padding: 5em 2em;
 box-shadow: 2.5px 5px 4px rgba(150, 166, 201, 0.8);
+}
+
+nav:focus-within{
+  transform: scale(1.4);
+  padding: 1em;
+  box-shadow: 2.5px 5px 4px rgba(150, 166, 201, 0.8);
+}
+
+section > form label {
+  color: #66b31c
 }
 
 form:first-of-type input, section > form:first-of-type button{
@@ -84,6 +97,8 @@ nav:last-of-type {
   /* background-color: rgb(236, 151, 194); */
   text-align: center;
   grid-area: webWinkel;
+  transform: scale(1); /* you need a scale here to allow it to transition in both directions */
+  transition: 0.2s all ease;
 }
 
 nav:last-of-type progress{
@@ -95,6 +110,9 @@ article:last-of-type {
   /* background-color: rgb(216,23,104); */
   /* background-color: rgb(236, 136, 186); */
   grid-area: chat;
+  transform: scale(1); /* you need a scale here to allow it to transition in both directions */
+  transition: 0.2s all ease;
+  z-index: 30000;
 }
 
 article:last-of-type ol {
@@ -124,6 +142,7 @@ article textarea {
   margin-left: 25%;
   width: 30%;
   margin-top: 3em;
+  border: solid #66b31c 1px
 }
 
 article button {
@@ -146,6 +165,8 @@ nav:first-of-type {
   /* background-color: rgb(233,54,32); */
   /* background-color: rgb(237, 122, 180); */
   grid-area: mainNav;
+  transform: scale(1); /* you need a scale here to allow it to transition in both directions */
+  transition: 0.2s all ease;
 }
 
 nav ul, nav ol {
@@ -169,13 +190,13 @@ nav a {
   color: white;
 }
 
+nav:first-of-type ul li:focus-within ul,
 nav:first-of-type ul li a:focus + ul {
-  display: block
+  display: block;
 }
 
 nav:first-of-type ul li:nth-child(2) a:focus{
   display: block;
-  opacity: 0;
 }
 
 nav:first-of-type ul li ul {
