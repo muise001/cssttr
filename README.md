@@ -64,7 +64,7 @@ Nadat ik CSSTTR niet had gehaald, bestloot ik om mijn website voor "web design" 
 - [x] **Ampersand** 
   * Altijd al een gaaf "&"-teken in je website willen hebben? Nee? Ik ook niet. Maar hij zit er wel in, en ben achteraf toch wel overdonderd door de charme van dat ding.
 
-Naast dit bovenstaande lijstje zijn er nog zo'n honderd bijzondere dingen aan mijn website. [Neem zelf maar even een kijkje](https://www.google.nl/)
+Naast dit bovenstaande lijstje zijn er nog zo'n honderd bijzondere dingen aan mijn website. [Neem zelf maar even een kijkje](https://muise001.github.io/cssttr-herkansing/)
 
 
 
